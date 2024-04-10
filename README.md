@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Current focus
+### Current focus
 - 🌱 I’m currently learning Fullstack development
   
-# Interests
+### Interests
 - 👀 I’m interested in coding and tech.
   
-# Get in touch
-- 📫 You can reach me at: post@marthin.no
+### Get in touch
+- 📫 You can reach me at: post@marthin.no or visit my site marthin.no
+
+### Websites
+- 🌐 I've developed sites like sushinamnam.no and sushi1.no
