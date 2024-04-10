@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in coding and tech.
   
 ### Get in touch
-- 📫 You can reach me at: post@marthin.no or visit my site [marthin.no].
+- 📫 You can reach me at: post@marthin.no or visit my site [marthin.no](https://marthin.no).
 
 ### Websites
-- 🌐 I've developed sites like [sushinamnam.no] and [sushi1.no].
+- 🌐 I've developed sites like [sushinamnam.no](https://www.sushinamnam.no) and [sushi1.no](https:www.sushi1.no)
