@@ -1,4 +1,4 @@
-### Hi there I'm Marthin aka mchtsz 👋
+## Hi there I'm Marthin aka mchtsz 👋
 
 <!--
 **mchtsz/mchtsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in coding and tech.
   
 ### Get in touch
-- 📫 You can reach me at: post@marthin.no or visit my site https://marthin.no
+- 📫 You can reach me at: post@marthin.no or visit my site (marthin.no)
 
 ### Websites
-- 🌐 I've developed sites like https://sushinamnam.no and https://sushi1.no
+- 🌐 I've developed sites like (sushinamnam.no) and (sushi1.no)
