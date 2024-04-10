@@ -1,5 +1,4 @@
 ## Hi there I'm Marthin aka mchtsz 👋
-
 <!--
 **mchtsz/mchtsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Current focus
-- 🌱 I’m currently learning Fullstack development
+- 🌱 I’m currently learning fullstack development.
   
 ### Interests
 - 👀 I’m interested in coding and tech.
   
 ### Get in touch
-- 📫 You can reach me at: post@marthin.no or visit my site [marthin.no]
+- 📫 You can reach me at: post@marthin.no or visit my site [marthin.no].
 
 ### Websites
-- 🌐 I've developed sites like [sushinamnam.no] and [sushi1.no]
+- 🌐 I've developed sites like [sushinamnam.no] and [sushi1.no].
