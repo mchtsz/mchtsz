@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me at: post@marthin.no or visit my site [here](https://www.marthin.no).
 
 ### Websites
-- 🌐 I've developed sites like [sushinamnam](https://www.sushinamnam.no) and [sushi1](https:www.sushi1.no).
+- 🌐 I've developed sites like [sushinamnam](https://www.sushinamnam.no) and [sushi1](https://www.sushi1.no).
