@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### Interests
 - 👀 I’m interested in coding and tech.
   
-### Get in touch
-- 📫 You can reach me at: post@marthin.no.
-
 ### Websites
 - 🌐 I've developed sites like [sushinamnam](https://www.sushinamnam.no).
+
+### Get in touch
+- 📫 You can reach me at: post@marthin.no.
